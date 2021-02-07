@@ -1,0 +1,10 @@
+.ed-slider {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ed-slider .slide-img {
+    width: 250px;
+    height: 200px;
+}
